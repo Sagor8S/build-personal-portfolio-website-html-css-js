@@ -271,7 +271,7 @@ section{
     margin-top: 8rem;
     display: flex;
     justify-content: space-around;
-    width: 220px;
+    width: 280px;
     height: 40px;
 }
 
@@ -787,7 +787,7 @@ footer{
 }
 
 footer p{
-    color: #bdbdbd;
+    color: rgb(169, 178, 214);
 }
 
 footer a{
